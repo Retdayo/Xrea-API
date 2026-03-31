@@ -27,9 +27,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourname/xrea-api"
+Homepage = "https://github.com/Retdayo/xrea-api"
 Documentation = "https://apidoc.xrea.com/"
-Issues = "https://github.com/yourname/xrea-api/issues"
+Issues = "https://github.com/Retdayo/xrea-api/issues"
 
 [tool.hatch.build.targets.wheel]
 packages = ["src/xrea_api"]
